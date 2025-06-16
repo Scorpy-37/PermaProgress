@@ -1,0 +1,16 @@
+{
+  "title": "PermaProgress",
+  "type": "tool",
+  "ignore": [
+    "*.psd",
+    "*.xcf",
+    "tests/*"
+  ],
+  "description": "An addon that keeps player placed props after server restarts",
+  "author": "Scorp",
+  "version": "1.0.0",
+  "github": "https://github.com/Scorpy-37/PermaProgress/",
+  "files": [
+    "lua/"
+  ]
+}
